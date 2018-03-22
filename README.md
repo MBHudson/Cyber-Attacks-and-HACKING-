@@ -37,6 +37,10 @@ Top 15 DDoS Tools https://www.youtube.com/watch?v=zflrijcVYcg
 11. GoldenEye   12. Hyenae  13. Hping3
 14.  Apache BenchMark Tool  15. Thc-ssl-dos
 
+ZAmbIE is a Toolkit(not finished yet) Made By Lunatic2(me) for DDoS Attacks
+https://github.com/zanyarjamal/zambie
+https://www.youtube.com/watch?v=wJOdtG3r3J8
+
 ## IOT DDOS
 
 Weaponization of IoT: Preparing for IoT Botnet DDoS Attacks https://www.youtube.com/watch?v=lh8hvd9nJ3w
