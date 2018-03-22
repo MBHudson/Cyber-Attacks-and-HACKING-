@@ -1,0 +1,38 @@
+BASIC INFRASTRUCTURE HACKING
+
+This courses familiarizes the attendees with a wealth of hacking tools and techniques. 
+
+The course starts from the very basic and gradually build up to the level where attendees can not only use the tools and techniques to hack various components involved in infrastructure hacking, but also walk away with a solid understanding of the concepts on which these tools work.
+The course outline summarizes the topics which will be covered.
+
+Day 1:
+
+TCP/IP basics
+
+The Art of Port scanning
+
+Target Enumeration
+
+Brute-forcing
+
+Metasploit Basics
+
+Hacking recent Unix Vulnerabilities
+
+Hacking Databases
+
+Hacking Application Servers
+
+Day 2
+
+Hacking third party applications (Wordpress, Joomla, Drupal)
+
+Windows Enumeration
+
+Hacking recent Windows Vulnerabilities.
+
+Hacking Third party software (browser, pdf, java)
+
+Post Exploitation: Dumping Secrets.
+
+Hacking Windows Domains.
