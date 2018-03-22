@@ -1,0 +1,62 @@
+#ADVANCED INFRASTRUCTURE HACKING - 2018 EDITION
+https://www.blackhat.com/us-18/training/schedule/#advanced-infrastructure-hacking---2018-edition-2-day-9580
+
+Day 1:
+
+IPv4/IPv6 Basics
+
+Host Discovery & Enumeration
+
+OSINT & Asset Discovery
+
+Hacking Application and CI Servers
+
+Oracle Database Exploitation
+
+Windows Vulnerabilities and Configuration Issues
+
+Windows Desktop 'Breakout' and AppLocker Bypass Techniques
+
+A/V & AMSI Bypass Techniques
+
+Offensive PowerShell Tools and Techniques
+
+Local Privilege Escalation
+
+Post Exploitation Tips, Tools and Methodology
+
+An Introduction into Active Directory Delegation
+
+Pivoting, Port Forwarding and Lateral Movement Techniques*
+
+Day 2:
+
+Linux Vulnerabilities and Configuration Issues
+
+User/Service Enumeration
+
+File Share Hacks
+
+SSH Hacks
+
+Restricted Shells Breakouts
+
+Breaking Hardened Webservers
+
+Local Privilege Escalation
+
+MongoDB, TTY, Reverse tunneling
+
+Post Exploitation
+
+VLAN Hopping
+
+Docker breakout
+
+Kubernetes vulnerabilities
+
+Hacking VoIP
+
+Exploiting Insecure VPN Configurations
+
+B33r 10
