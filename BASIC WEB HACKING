@@ -1,0 +1,53 @@
+BASIC WEB HACKING
+
+This course familiarizes the attendees with a wealth of tools and techniques 
+needed to breach the security of web applications. 
+
+The course starts from the very basic and gradually build up to the level 
+where attendees can not only use the tools and techniques to hack various 
+components involved in web application hacking, but also walk away with 
+a solid understanding of the concepts on which these tools work. 
+
+The course also covers the industry standards such as OWASP Top 10, PCI DSS and
+contain numerous real life examples to help the attendees understand the 
+true impact of these vulnerabilities. This course is constantly updated on 
+a regular basis to ensure that the latest exploits and vulnerabilities are available within the Hacklab and taught in this course.
+
+The following is the course outline:
+
+Day 1: 
+
+Understanding the HTTP protocol
+
+Identifying the attack surface
+
+Information gathering
+
+Authentication Flaws
+
+Online/Offline brute-force attacks
+
+Cryptographic Flaws
+
+Issues with SSL/TLS
+
+Authorization Bypass
+
+
+Day 2: 
+
+Insecure Direct Object Reference
+
+Cross Site Scripting (XSS)
+
+Reflective and Persistent XSS
+
+Cross Site Request Forgery (CSRF)
+
+SQL Injection (SQLi)
+
+Tools and Techniques for exploiting SQLi
+
+XML External Entity (XXE) Attacks
+
+Insecure File Uploads
