@@ -19,6 +19,17 @@ DRDOS--Reflected / spoofed attack
 
 regular expression denial of service (ReDoS) https://en.wikipedia.org/wiki/ReDoS
 
+R-U-Dead-Yet(RUDY)HTTP DoS attack https://en.wikipedia.org/wiki/R-U-Dead-Yet
+https://sourceforge.net/projects/r-u-dead-yet/
+
+R-U-Dead-Yet, RUDY DDoS Attack Tool----a low and slow DoS attack tool
+https://www.youtube.com/watch?v=k1o9Ya8qxlU
+
+THC-SSL-DOS Attack Tool https://www.youtube.com/watch?v=Ex2xz0ZOKKs
+
+Slowloris DOS/DDOS attack tool https://www.youtube.com/watch?v=8Yl1ddOp3wM
+Slowloris--Powerful DOS attack perl program  https://github.com/hackerimranahmed/Slowloris
+ 
 ## IOT DDOS
 
 Weaponization of IoT: Preparing for IoT Botnet DDoS Attacks https://www.youtube.com/watch?v=lh8hvd9nJ3w
