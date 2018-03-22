@@ -13,6 +13,10 @@ https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon
 
 HTTP POST DoS attack(2009)
 
+Amplification DDoS attacks--NTP/DNS
+
+DRDOS--Reflected / spoofed attack
+
 regular expression denial of service (ReDoS) https://en.wikipedia.org/wiki/ReDoS
 
 ## IOT DDOS
