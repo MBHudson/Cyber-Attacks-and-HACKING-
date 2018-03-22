@@ -1,0 +1,70 @@
+WEB HACKING - BLACK BELT EDITION
+
+NotSoSecure is pleased to launch their much awaited advanced Web Hacking class. 
+Much like the Advanced Infrastructure Hacking class, this class talks about 
+a wealth of hacking techniques to compromise web applications, APIs and associated end-points. 
+This class focus on specific areas of app-sec and on advanced vulnerability identification 
+and exploitation techniques (especially server side flaws). 
+The class allows attendees to practice some neat, new and ridiculous hacks 
+which affected real life products and have found a mention in real bug-bounty programs. 
+The vulnerabilities selected for the class either typically go undetected by modern scanners or 
+the exploitation techniques are not so well known. Attendees will also benefit from a state-of-art Hacklab 
+and we will be providing free 30 days lab access after the class to allow attendees more practice time.
+
+The following is the course outline:
+
+
+Day 1 
+Authentication Bypass
+Token Hijacking attacks
+SQL column truncation attack
+Logical Bypass / Boundary Conditions
+SAML / OAuth 2.0 / Auth-0 / JWT Attacks
+JWT Token Brute-Force attacks
+SAML Authentication and Authorization Bypass
+XXE through SAML
+Advanced XXE Exploitation over OOB channels
+Password Reset Attacks
+Cookie Swap
+Host Header Validation Bypass
+Case study of popular password reset fails.
+Breaking Crypto
+Known Plaintext Attack (Faulty Password Reset)
+Path Traversal using Padding Oracle
+Hash length extension attacks
+Business Logic Flaws / Authorization flaws
+Mass Assignment
+Invite/Promo Code Bypass
+Replay Attack
+SQL Injection
+2nd order injection
+Out-of-Band exploitation
+SQLi through crypto
+NoSQL Injection
+OS code exec via powershell.
+Advanced topics in SQli
+
+Day 2
+Remote Code Execution (RCE)
+Java Serialisation Attack
+Node.js RCE
+PHP object injection
+RCE through XXE (with blind XXE)
+RCE through XSLT
+Rails' Remote Code Execution
+Ruby/ERB template injection
+Exploiting code injection over OOB channel
+Server Side Request Forgery (SSRF)
+SSRF to query internal network
+SSRF to code exec
+Unrestricted File Upload
+Malicious File Extensions
+Circumventing File validation checks
+Web shells for modern platforms
+Miscellaneous Topics
+HTTP Parameter Pollution (HPP)
+XXE in file parsing
+A Collection of weird and wonderful XSS and CSRF attacks.
+Attack Chaining
+Combining Client-side and Server-side attacks to steal internal secrets
+B33r 101
