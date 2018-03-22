@@ -3,7 +3,9 @@
 The 20 Biggest Hacking Attacks of All Time https://www.vpnmentor.com/blog/20-biggest-hacking-attacks-time/
 
 
-網路攻擊
+## 網路攻擊防禦
+
+NEC網路攻擊自動防禦解決方案 https://www.youtube.com/watch?v=r5DrW4vqbY8
 
 ## DDoS(1997-2018)
 
@@ -31,6 +33,7 @@ THC-SSL-DOS Attack Tool https://www.youtube.com/watch?v=Ex2xz0ZOKKs
 
 Slowloris DOS/DDOS attack tool https://www.youtube.com/watch?v=8Yl1ddOp3wM
 Slowloris--Powerful DOS attack perl program  https://github.com/hackerimranahmed/Slowloris
+https://en.wikipedia.org/wiki/Slowloris_(computer_security)
 
 Top 15 DDoS Tools https://www.youtube.com/watch?v=zflrijcVYcg
 1. HULK  2. LOIC  3. XOIC  4. DDOSIM   5. RUDY
@@ -43,6 +46,9 @@ ZAmbIE is a Toolkit(not finished yet) Made By Lunatic2(me) for DDoS Attacks
 https://github.com/zanyarjamal/zambie
 https://www.youtube.com/watch?v=wJOdtG3r3J8
 
+xerxes website ddos tool on kali linux 2017.1 https://www.youtube.com/watch?v=qMjYDoqG13Y
+https://github.com/zanyarjamal/xerxes
+
 ## IOT DDOS
 
 Weaponization of IoT: Preparing for IoT Botnet DDoS Attacks https://www.youtube.com/watch?v=lh8hvd9nJ3w
@@ -54,6 +60,9 @@ Example of IoT (in)security leading to DDoS attacks https://www.youtube.com/watc
 DEF CON 23 - IoT Village - Daniel Miessler - IoT Attack Surface Mapping https://www.youtube.com/watch?v=RhxHHD790nw
 
 The Opportunity for Security in the IoT Market https://www.youtube.com/watch?v=wXKy5pw-Pls
+
+
+nShield | Anti-DDoS Solution For IoT Devices | Kali Linux 2017.1 https://www.youtube.com/watch?v=RL9bIPRZ1b8
 
 ## Android DDOS -----When Androids attack
 
